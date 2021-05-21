@@ -139,6 +139,11 @@ These are some of the technologies and tools that I work with:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeADSilva&theme=algolia#version3" />
 </a>
 </p>
+<p align="center">
+<a href="https://github.com/JorgeADSilva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeADSilva&hide=TeX&layout=compact" />
+</a>
+</p>
 
 
 ---
