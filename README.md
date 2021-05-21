@@ -141,7 +141,7 @@ These are some of the technologies and tools that I work with:
 </p>
 <p align="center">
 <a href="https://github.com/JorgeADSilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeADSilva&hide=TeX&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeADSilva&hide=TeX&layout=compact&theme=algolia" />
 </a>
 </p>
 
