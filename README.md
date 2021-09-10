@@ -121,6 +121,7 @@ These are some of the technologies and tools that I work with:
     <th>Others</th>
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/puppeteer-puppeteer-orange" />
     </td>
   </tr>
   
