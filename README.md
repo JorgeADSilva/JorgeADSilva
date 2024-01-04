@@ -12,8 +12,8 @@
 <br>
 
 - 🔭 I professionally work on Bosch Security Systems
-- 🧮 Currently, exploring and gaining developmental experience on Mobile Development, Docker and NodeJS
-- 🌱 I’m currently fostering experience on DevOps
+- 🧮 Currently, exploring and gaining developmental experience on Mobile Development (Flutter), Docker and NodeJS
+- 🌱 I’m currently fostering experience on Backend and IoT development.
 - 👯 I’m looking to create and work on new Open Source projects
 - 📫 How to reach me: jorge16silva@gmail.com
 - ⚡ Fun fact: I'm a night owl
